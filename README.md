@@ -1,7 +1,8 @@
+![logo](https://github.com/sumitsamantray/sumitsamantray/blob/main/Linkedin_Cover_-_Data_Scientist_py4mog.png)
 <h1 align="center">Hi 👋, I'm Sumit Samantray</h1>
 <h3 align="center">Data Scientist | Excel, Power BI, SQL, Python | Driving Business Insights & Innovation with Machine Learning.</h3>
 
-<img aling="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img aling = " " alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently working on **Business Insight 360**
 
