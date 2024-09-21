@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Samantray</h1>
 <h3 align="center">Data Scientist | Excel, Power BI, SQL, Python | Driving Business Insights & Innovation with Machine Learning.</h3>
 
-- 👯 Working **Fortune 500**
+- 👯 Working **Google India**
 - 🌱 I’m currently learning **Machine Learning**
 - 🔭 I’m currently working on **Hospitality Analysis through python**
 - 💬 Ask me about **Driving Business Insights & Innovation with Machine Learning.**
