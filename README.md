@@ -4,7 +4,7 @@
 
 - 👯 Working **Google India**
 - 🌱 I’m currently learning **Machine Learning**
-- 🔭 I’m currently working on **Hospitality Analysis through python**
+- 🔭 I’m currently working on **Google Trend**
 - 💬 Ask me about **Driving Business Insights & Innovation with Machine Learning.**
 - 📫 How to reach me **samantraysumit@gmail.com Mobile 7503885223**
 - ⚡ Passionate **Story Teller & Travel Photographer**
