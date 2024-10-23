@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Sumit Samantray</h1>
 <h3 align="center">Data Scientist | Excel, Power BI, SQL, Python | Driving Business Insights & Innovation with Machine Learning.</h3>
 
-- 👯 Working **Google India**
+- 👩‍💻 Working **Google India**
 - 🌱 I’m currently learning **Machine Learning**
 - 🔭 I’m currently working on **Google Trend**
 - 💬 Ask me about **Driving Business Insights & Innovation with Machine Learning.**
 - 📫 How to reach me **samantraysumit@gmail.com Mobile 7503885223**
 - ⚡ Passionate **Story Teller & Travel Photographer**
-
+- ⚡ Fun fact - I love to pay attention to details :)
 <h2 align="left">About me</h1>
 Hi everybody, I'm Sumit Samantray, and information is my favourite! I'm, as of late, a postgraduate from DIT University Dehradun, however, numbers and bits of knowledge have forever been my obsession. Before entering the academic world, I spent over five years in the fast-paced sales and marketing industry, working for amazing companies like Google and Samsung. My analytical side wanted more, but the thrill of closing deals was enjoyable. That is why I chose to seek after my Lord in PC Applications (MCA) through information science and open the force of information examination. However, I view numbers as stories waiting to be told, not just numbers.
 Furthermore, is everything a better method for telling a story than from the perspective of a camera? When not glued to my computer, I can explore new places and photograph their essence. Travel is my fuel, and each outing adds another section to my information-driven viewpoint. Thus, I suppose you could say I'm an information expert with an explorer's spirit or a movement photographic artist with a skill for numbers. So, I'm an interested student, an energetic investigator, and a narrator on a fundamental level. Furthermore, I'm eager to bring my interesting mix of abilities and encounters to the group.
