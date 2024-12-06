@@ -1,6 +1,6 @@
 ![logo](https://github.com/sumitsamantray/sumitsamantray/blob/main/Linkedin_Cover_-_Data_Scientist_py4mog.png)
 <h1 align="center">Hi 👋, I'm Sumit Samantray</h1>
-<h3 align="center">Data Scientist | Excel, Power BI, SQL, Python | Driving Business Insights & Innovation with Machine Learning.</h3>
+<h3 align="center">Data Scientist | Driving Business Insights & Innovation with Machine Learning.</h3>
 
 - 👩‍💻 Working 
 - 🌱 I’m currently learning **Machine Learning**
